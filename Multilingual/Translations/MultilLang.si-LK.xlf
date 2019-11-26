@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-CA" original="MultilLang" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="body" datatype="resx">
+        <trans-unit id="Table 4179158116 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Car</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">කාරය</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Car - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179158116 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">නැත</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Car - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179158116 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">විස්තරය</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Car - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179158116 - Field 3454070650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Class</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">පන්තිය</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Car - Field Class - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179158116 - Field 3454070650 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type1,Type2</source>
+          <target state="translated">වර්ගය</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Car - Field Class - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179158116 - Field 708423238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Engine capacity</source>
+          <target state="translated">එන්ජිමේ ධාරිතාව</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Car - Field Engine capacity CC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1634653456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Car Card</source>
+          <target state="translated">කාර් කාඩ්</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Car Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1634653456 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="translated">වාහන අංකය</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Car Card - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1634653456 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">විස්තරය</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Car Card - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1634653456 - Control 708423238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Engine capacity</source>
+          <target state="translated">එන්ජිමේ ධාරිතාව</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Car Card - Control Engine capacity CC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1634653456 - Control 3454070650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Class</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">පන්තිය</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Car Card - Control Class - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683398134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Car List</source>
+          <target state="translated">කාර් ලැයිස්තුව</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Car List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683398134 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">නැත</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Car List - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683398134 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">විස්තරය</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Car List - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683398134 - Control 3454070650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Class</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">පන්තිය</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Car List - Control Class - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683398134 - Control 708423238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Engine capacity</source>
+          <target state="translated">එන්ජිමේ ධාරිතාව</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Car List - Control Engine capacity CC - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
